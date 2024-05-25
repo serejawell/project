@@ -1,4 +1,4 @@
-"""this us upper func"""
+"""this us upppper func"""
 def upper_func(string):
     return string.upper()
 
